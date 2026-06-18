@@ -8,19 +8,22 @@
 - [x] Google Apps Script 入口：`gas/Code.gs`
 - [x] Google Apps Script HTML：`gas/Index.html`
 - [x] Apps Script Web App 部署
-- [x] Web App 公開網址驗證
+- [x] GitHub Pages 正式網站部署
+- [x] 正式網站公開網址驗證
 
 ## 已部署網址
 
 - 正式網站網址（直接開啟就是網站介面）：
-  https://script.google.com/macros/s/AKfycbxZvuiGwV2RdRMXv8bts-454c3pI2uZiz5PzLLMPOlUc7OYZx7cHuQZ1__-T7exwF6j/exec
+  https://angelo0218.github.io/airaqube-landing-page/
+- GitHub repo：
+  https://github.com/Angelo0218/airaqube-landing-page
 
 ## 繳交欄位
 
 - LLM 對話分享網址：
   待填入
 - 正式網站網址：
-  https://script.google.com/macros/s/AKfycbxZvuiGwV2RdRMXv8bts-454c3pI2uZiz5PzLLMPOlUc7OYZx7cHuQZ1__-T7exwF6j/exec
+  https://angelo0218.github.io/airaqube-landing-page/
 
 ## 最後確認
 

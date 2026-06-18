@@ -9,17 +9,19 @@
 - `planning.md`：產品概念、網站規劃與 AI 生圖提示詞。
 - `submission-checklist.md`：繳交前檢查表。
 
-## 已完成的 Apps Script 部署
+## 正式公開網站
 
-- Apps Script 專案：
-  https://script.google.com/d/1jy-uYxX-HHIDQMvB18byjCCGMT1sZkPlyDD_e215FX9hh0gCA26w9npf/edit
-- Apps Script Web App 公開網址（正式繳交主網址，直接開啟就是完整網站）：
+- GitHub Pages 正式網址（直接開啟就是完整網站介面）：
+  https://angelo0218.github.io/airaqube-landing-page/
+- GitHub repo：
+  https://github.com/Angelo0218/airaqube-landing-page
+
+## 備用 Apps Script 部署紀錄
+
+這個網址是 Google Apps Script Web App 備用部署，若瀏覽器或 Google 帳號導向異常，請改用 GitHub Pages 正式網址。
+
+- Apps Script Web App：
   https://script.google.com/macros/s/AKfycbxZvuiGwV2RdRMXv8bts-454c3pI2uZiz5PzLLMPOlUc7OYZx7cHuQZ1__-T7exwF6j/exec
-- 部署版本：Version 1
-- 部署 ID：
-  `AKfycbxZvuiGwV2RdRMXv8bts-454c3pI2uZiz5PzLLMPOlUc7OYZx7cHuQZ1__-T7exwF6j`
-
-## Google Apps Script 部署指令紀錄
 
 ```powershell
 cd gas
@@ -32,4 +34,4 @@ npx @google/clasp deploy --versionNumber 1 --description "AiraQube Web App"
 
 - LLM 對話分享網址。
 - 正式上線網站網址：
-  https://script.google.com/macros/s/AKfycbxZvuiGwV2RdRMXv8bts-454c3pI2uZiz5PzLLMPOlUc7OYZx7cHuQZ1__-T7exwF6j/exec
+  https://angelo0218.github.io/airaqube-landing-page/
